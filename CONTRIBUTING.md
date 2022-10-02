@@ -2,10 +2,8 @@
 
 ## Before contributing
 
-Welcome to [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)! Before sending your pull requests,
-make sure that you **read the whole guidelines**. If you have any doubt on the contributing guide, please feel free to
-[state it clearly in an issue](https://github.com/TheAlgorithms/Javascript/issues/new).
-
+Welcome to  paulsrijon/JavaScript_DSA  Before sending your pull requests,
+make sure that you **read the whole guidelines**. 
 ## Contributing
 
 ### Contributor
@@ -15,7 +13,7 @@ referenced and used by learners from around the globe. Being one of our contribu
 
 - You did your work - plagiarism is not allowed.
   - Any plagiarized work will not be merged.
-- Your work will be distributed under [GNU License](LICENSE) once your pull request is merged.
+- Your work will be distributed under MIT LICENCE once your pull request is merged.
 - Your submitted work must fulfill our styles and standards.
 
 **New implementation** is welcome! For example, new solutions to a problem, different representations of a graph data
@@ -145,4 +143,4 @@ function sumOfArray(arrayOfNumbers) {
   - **Be consistent in the use of these guidelines when submitting.**
   - Happy coding!
 
-Writer [@itsvinayak](https://github.com/itsvinayak), May 2020.
+Writer Srijon Paul, OCTOBER 2022.
